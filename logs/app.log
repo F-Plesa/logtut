@@ -1,0 +1,6 @@
+2021-10-19 12:13:33,004 INFO c.m.StartApplication [main] Starting StartApplication on localhost.localdomain with PID 7200 (/home/filip/Desktop/Tasks/log4j/log4j-tut/spring-boot/logging-log4j2/target/classes started by filip in /home/filip/Desktop/Tasks/log4j/log4j-tut/spring-boot/logging-log4j2)
+2021-10-19 12:13:33,035 DEBUG c.m.StartApplication [main] Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2021-10-19 12:13:33,036 INFO c.m.StartApplication [main] No active profile set, falling back to default profiles: default
+2021-10-19 12:13:36,958 INFO c.m.StartApplication [main] Started StartApplication in 4.562 seconds (JVM running for 15.266)
+2021-10-19 12:14:34,647 DEBUG c.m.HelloController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2021-10-19 12:14:34,654 DEBUG c.m.HelloController [http-nio-8080-exec-1] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
